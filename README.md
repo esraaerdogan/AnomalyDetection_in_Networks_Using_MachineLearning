@@ -1,3 +1,5 @@
+BİLGİSAYAR AĞLARINDA MAKİNE ÖĞRENMESİ İLE ANOMALİ TESPİTİ
+
 CICIDS2017 veri kümesi üzerinde makine öğrenmesi algoritmaları kullanılarak bilgisayar ağlarında anomali tespitine yönelik bir proje geliştirilmiştir. 
 Proje, aşağıdaki adımlardan oluşmaktadır. 
 
